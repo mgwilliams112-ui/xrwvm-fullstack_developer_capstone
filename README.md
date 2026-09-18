@@ -1,2 +1,2 @@
-# coding-project-template
-fullstack_developer_capstone
+IBM Fullstack Developer Capstone
+A project compiled to showcase skills across the full stack of software development.
